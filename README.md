@@ -1,2 +1,2 @@
 # Arduino
-Learning Arduino While Making Projects.
+Learning Arduino By Making Projects.
